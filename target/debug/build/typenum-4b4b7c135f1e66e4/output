@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/quackers/Dev/zk_event/puzzle-supervillain/target/debug/build/typenum-4b4b7c135f1e66e4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/quackers/Dev/zk_event/puzzle-supervillain/target/debug/build/typenum-4b4b7c135f1e66e4/out/op.rs
